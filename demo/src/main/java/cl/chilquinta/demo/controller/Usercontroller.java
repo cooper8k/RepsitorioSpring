@@ -20,13 +20,13 @@ public class Usercontroller {
     public HashMap hola2 () {
         HashMap<Integer,String>  hashMap = new HashMap<>();
         
-        hashMap.put(1, "hola1");
+        hashMap.put(1, "hola111");
         hashMap.put(2, "uno");
 
 
 
 
-        
+
         return hashMap;
     }
 } 
